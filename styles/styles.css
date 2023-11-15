@@ -1,0 +1,237 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Jost', sans-serif;
+    font-family: 'League Spartan', sans-serif;
+    font-family: 'Manrope', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.header {
+    width: 1400px;
+    height: 30px;
+}
+.header-loro, .header-menu {
+    display: inline-block;
+}
+.header-loro {
+    width: 100px;
+    margin-left: 135px;
+    font-size: 12px;
+}
+.header-menu {
+    margin-left: 680px
+}
+.header-menu a{
+    padding: 20px;
+    text-decoration: none;
+}
+
+
+.content {
+    width: 1400px;
+    height: 800px;
+}
+.content-tetx {
+    margin-top: 70px;
+    margin-left: 130px;
+    font-size: 25px;
+    color: #121212;
+}
+.content-text-img {
+    position: relative;
+    text-align: center;
+    top: 50px;
+}
+.content-img-text {
+    position: absolute;
+    bottom: 20px;
+    left: 180px;
+    color: #FFFFFF;
+}
+
+
+.about-paragraph {
+    width: 51px;
+    height: 25px;
+    margin-left: 120px;
+    font-size: 12px;
+}
+.about-paragraph-2 {
+    width: 1048px;
+    height: 250px;
+    margin-left: 120px;
+    font-size: 30px;
+}
+.about-butten {
+    padding: 10px;
+    border-radius: 5px;
+    border:none;
+    background: red;
+    color: #fff;
+    margin-left: 120px;
+    margin-top: 50px;
+}
+
+
+.project-paragraph {
+    width: 100px;
+    height: 50px;
+    margin-top: 150px;
+    margin-left: 120px;
+    font-size: 12px;
+}
+.project-img img {
+     margin-left: 120px;
+}
+.project-paragraph-2 {
+    margin-left: 120px;
+}
+.project-link a{
+    margin-left: 120px;
+    text-decoration: none;
+    color: orange;
+}
+
+.project-img-2 {
+    margin-top: 70px;
+    margin-left: 120px;
+}
+.project-link-2 a{
+    margin-left: 120px;
+    text-decoration: none;
+    color: orange;
+}
+
+.project-img-3 {
+    margin-top: 70px;
+    margin-left: 120px;
+}
+.project-link-3 a{
+    margin-left: 120px;
+    text-decoration: none;
+    color: orange;
+}
+.project-paragraph-3 {
+    margin-left: 120px;
+}
+
+.project-button {
+    width: 1160px;
+    height: 100px;
+    padding: 30px;
+    margin-top: 70px;
+    margin-left: 120px;
+    border: 2px solid transparent;
+    color: red;
+    border-color: rgb(255, 0, 0);
+    font-size: 20px;
+}
+.project-button:hover {
+    background: transparent;
+    color: rgb(255, 255, 255);
+    background-color: red;
+}
+
+.services {
+    background-color: #000;
+}
+.services-paragraph {
+    color: #fff;
+    margin-left: 120px;
+}
+.services-img {
+    margin-left: 120px;
+}
+.services-paragraph-1 {
+    margin-left: 120px;
+    color: #fff;
+}
+
+.services-img-2 {
+    margin-left: 120px;
+    margin-top: 50px;
+}
+.services-paragraph-2 {
+    margin-left: 120px;
+    color: #fff;
+}
+
+.services-img-3 {
+    margin-left: 120px;
+    margin-top: 50px;
+}
+.services-paragraph-3 {
+    margin-left: 120px;
+    color: #fff;
+}
+
+.services-img-4 {
+    margin-left: 120px;
+    margin-top: 50px;
+}
+.services-paragraph-4 {
+    margin-left: 120px;
+    color: #fff;
+}
+
+.img-boss {
+    margin-left: 25px;
+    position: absolute;
+    
+}
+.services-paragraph-boss {
+    position: relative;
+    color: #fff;
+    margin-top: 600px;
+    margin-left: 100px;
+    font-size: 20px;
+}
+
+
+main .contakt {
+    width: 100%;
+    height: 600px;
+}
+.contakt-text {
+    margin-top: 150px;
+    margin-left: 120px;
+    width: 100px;
+    height: 10px;
+}
+.contakt-nomer {
+    margin-top: 20px;
+    margin-left: 120px;
+}
+.contakt-nomer a {
+    font-size: 25px;
+    text-decoration: none;
+    color: #4f4545;
+}
+.contakt-mail {
+    width: 300px;
+    height: 130px;
+    margin-top: 10px;
+    margin-left: 120px;
+    font-size: 25px;
+}
+.contakt-mail a{
+    color: #4f4545;
+}
+
+
+.footer {
+    width: 1470px;
+    height: 150px;
+    text-align: center;
+    background-color: #000;
+}
+
+.footer-menu a{
+    padding: 20px;
+    font-size: 13px;
+    text-decoration: none;
+    color: #fff;
+}
